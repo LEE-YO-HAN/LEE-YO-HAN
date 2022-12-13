@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=YoHan-Github&fontSize=90" />
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=YoHan-Github&fontSize=90" />
+ -->
 <h3 align="center">🛠Tech Stack🛠</h3>
 
 <h4 align="center">🗃FrameWork & Languages🗃</h4>
@@ -48,4 +48,4 @@ LEE-YO-HAN](http://mazassumnida.wtf/api/generate_badge?boj=yhl078)](https://solv
 
 <hr />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer) -->
