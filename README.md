@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### MD style test
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%👋,I'm%John&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%👋,I'm%Yohan&fontSize=90" />
 
 ### boj Ranking
 
