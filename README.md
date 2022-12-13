@@ -32,6 +32,7 @@
   <a href="https://hanbbistory.tistory.com/" target="_black">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
   </a>
+<!--  <img src="https://img.shields.io/badge/yhl0078@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" /> -->
 </div>
 
 <hr>
