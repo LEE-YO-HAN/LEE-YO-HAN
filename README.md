@@ -41,7 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-YO-HAN&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=LEE-YO-HAN&show_icons=true">
 
-##### boj Ranking
+##### boj Rating
 
 [![Solved.ac
 LEE-YO-HAN](http://mazassumnida.wtf/api/generate_badge?boj=yhl078)](https://solved.ac/yhl078)
