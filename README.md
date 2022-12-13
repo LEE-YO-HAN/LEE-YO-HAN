@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### boj Ranking
 
 [![Solved.ac
-yhl078](http://mazassumnida.wtf/api/generate_badge?boj=LEE-YO-HAN)](https://solved.ac/LEE-YO-HAN)
+LEE-YO-HAN](http://mazassumnida.wtf/api/generate_badge?boj=yhl078)](https://solved.ac/LEE-YO-HAN)
 
 <hr />
 
