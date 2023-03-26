@@ -17,14 +17,16 @@
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
 </div>
 
 <h4 align="center">✒ Now Learning... ✒</h4>
 <div align="center">  
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 </div>
 
-<h4 align="center">⚙ Other ⚙</h4>
+<h4 align="center">⚙ Others ⚙</h4>
 <div align="center">
   <a href="https://github.com/LEE-YO-HAN" target="_black">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEE-YO-HAN&count_bg=%23F45656&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" />
@@ -37,12 +39,8 @@
 
 <hr>
 
-### My Github Info
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-YO-HAN&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=LEE-YO-HAN&show_icons=true">
-
-##### boj Rating
+<img src="https://github-readme-stats.vercel.app/api?username=LEE-YO-HAN&theme=github_dark&show_icons=true">
 
 [![Solved.ac
 LEE-YO-HAN](http://mazassumnida.wtf/api/generate_badge?boj=yhl078)](https://solved.ac/yhl078)
