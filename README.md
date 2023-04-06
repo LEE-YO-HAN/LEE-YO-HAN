@@ -39,7 +39,7 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-YO-HAN&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-YO-HAN&theme=github_dark&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=LEE-YO-HAN&theme=github_dark&show_icons=true">
 
 [![Solved.ac
